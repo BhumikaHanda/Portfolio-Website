@@ -1,0 +1,174 @@
+body{  
+    background-image:url(img/—Pngtree—playful\ abstract\ portfolio\ pink\ memphis_1347359.png) ;
+    background-size: cover;
+}
+
+header{
+       margin: 97px;
+}
+
+.name{
+    font-size:300%;
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    padding: 0%
+    margin-left:150px;
+    width: 50%;
+    margin-top: 132px;
+    margin-bottom: 10px;  
+    
+}
+.content{
+    margin-left:150px;
+    color: #555;
+    line-height: 25px;
+    font-size: 120%; 
+}
+
+.name2{
+    font-size: 470%;
+    font-style: italic;
+    font-family: cursive;
+    padding: 0%;
+    box-sizing: border-box;
+    margin-left:250px;
+    width: 50%;
+    margin-top: 2px;
+   
+}
+
+.wordb{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(239, 119, 27);
+}
+
+.container{
+         width: 50%;
+         margin: auto;
+         border: 5px solid sienna;
+         padding-top: 43px;
+    
+}
+
+.cv{
+    padding: 10px 17px;
+    margin-left: 150px;
+    display: inline-block;
+    background: rgb(209, 164, 81);
+    text-decoration: none;
+    border-radius:50px ;
+   
+}
+
+.cv:hover{
+    transform: scale(1.3);
+}
+
+.last-content{
+    color: #555;
+    line-height: 30px;
+    margin-left: 963px;
+    margin-top: 140px;
+    font-size: 110%;
+}
+
+#span1{
+    color: black;
+    font-style: initial;
+    font-size:300%;
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#span{
+    color: #da885a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image{
+    margin-left: 500px;
+}
+
+.blogo{
+    margin-top: 1px;
+    margin-left:1px ;
+    margin-right: ;
+    padding: 0px;
+    width: 7.5%;
+    float: left;
+}
+
+.b{
+    margin-left: -95px;
+    margin-top: -83px;
+   
+}
+
+.navbar{
+   display: inline-block;
+}
+
+.navbar li{
+    display: inline-block;
+    text-decoration: none;
+}
+
+.navbar li a{
+    color: black;
+    padding: 33px 24px;
+    font-style: oblique;
+    font-size: x-large;
+    text-decoration: none;
+    
+   } 
+   .navbar li a:hover{
+    color: brown;
+    transform: scale(1);
+   }
+
+   .mid{
+    margin-top: 85px;
+    margin-left: 456px;
+   }
+
+   .bimg{
+    width: auto;
+    height: 50%;
+    position: absolute;
+    bottom:200px;
+    right: 500px;
+    border: 5px solid #cf7973;
+    border-radius:50% ;
+   }
+
+   .bimg:hover{
+  right: 35%;
+    border: 5px solid  rgb(209, 164, 81);;
+
+
+   }
+   .blogo:hover{
+    top:40px ;
+    border: 4px solid #cf7973;
+    transform: scale(1.3);
+   }
+
+   .i{
+    margin-left: 929px;
+   }
+   
+   .i li{
+    display: inline-block;
+   }
+   .iconn{
+         font-size: 33px;
+         padding: 25px;
+         display: inline-block;
+   }
+
+  .i li:hover{
+    transform: scale(1.3);
+    border: 1px solid  #cf7973;
+    border-radius: 50%;
+  }
+   
